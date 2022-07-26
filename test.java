@@ -1,1 +1,3 @@
-public class test.java
+  public class person{
+  
+  }
