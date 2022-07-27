@@ -1,3 +1,3 @@
   public class person {
-  System.out.println(" ");
+  System.out.println("测试 ");
   }
