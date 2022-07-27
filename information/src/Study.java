@@ -15,4 +15,7 @@ public class Study {
     public void DoExercise(){
         System.out.println("我们正在做操");
     }
+    public void  DoSleep(){
+        System.out.println("我们在睡觉");
+    }
 }
